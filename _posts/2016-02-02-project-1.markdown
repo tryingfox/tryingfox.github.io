@@ -8,5 +8,4 @@ project-date: February 2016
 client: Start Bootstrap
 category: Web Development
 description: I am tryingfox, a crazy fox :)
-
 ---
