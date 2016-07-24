@@ -6,16 +6,9 @@ categories: jekyll update
 ---
 
 时间过的好快
-云计算是个好东东，用好不易
-深圳是个好城市，总会找到合适的人才
-我的时代，已经到来
 
-{% highlight ruby linenos %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+云计算是个好东东，用好不易
+
+深圳是个好城市，总会找到合适的人才
+
+我的时代，已经到来
