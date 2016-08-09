@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "战斗"
+date:   2016-08-09 00:00:01 +0800
+categories: jekyll update
+---
+
+一个人也要像一支部队去战斗。
