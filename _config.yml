@@ -5,7 +5,7 @@ baseurl:
 url: http://tryingfox.com
 date_format: "ordinal"
 title: 燃蹄
-subtitle: "代码在手，跟我走"
+subtitle: "代码改变世界"
 description: "燃蹄的个人博客"
 keywords: 燃蹄, ranti, tryingfox
 favicon: /favicon.ico
@@ -37,10 +37,6 @@ navs:
   -
     href: /wiki/
     label: 维基
-
-  -
-    href: /links/
-    label: 链接
 
   -
     href: /about/
@@ -83,11 +79,7 @@ repository: tryingfox/tryingfox.github.io
 #      Socials     #
 # ---------------- #
 github_username: tryingfox
-douban_username: tryingfox
-facebook_username: tryingfox
-weibo_username: tryingfox
 zhihu_username: tryingfox
-twitter_username: tryingfox
 
 # ---------------- #
 #      Comments    #
@@ -96,8 +88,8 @@ twitter_username: tryingfox
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: tryingfox
-disqus_username: tryingfox
+duoshuo_username: ranti
+disqus_username: ranti
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 
@@ -110,6 +102,4 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [Java, Python, Design Patterns]
