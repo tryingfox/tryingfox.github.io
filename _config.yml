@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://tryingfox.com
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 燃蹄
+subtitle: "代码在手，跟我走"
+description: "燃蹄的个人博客"
+keywords: 燃蹄, ranti, tryingfox
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+author: Ranti
+organization: SANGFOR
+organization_url: http://www.sangfor.com.cn/
+location: Shenzhen, China
+email: ranti@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,17 +77,17 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: tryingfox/tryingfox.github.io
 
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: tryingfox
+douban_username: tryingfox
+facebook_username: tryingfox
+weibo_username: tryingfox
+zhihu_username: tryingfox
+twitter_username: tryingfox
 
 # ---------------- #
 #      Comments    #
@@ -96,8 +96,8 @@ twitter_username: mzlogin
 comments_provider: disqus
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: tryingfox
+disqus_username: tryingfox
 # 在使用 disqus 的时候可点击显示多说评论框
 lazy_load_duoshuo: true
 

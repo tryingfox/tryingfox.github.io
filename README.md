@@ -1,6 +1,6 @@
 # 码志
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://tryingfox.com>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -15,7 +15,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://mazhuang.org)**
+**[在线预览 &rarr;](http://tryingfox.com)**
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
