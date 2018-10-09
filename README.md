@@ -15,7 +15,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://tryingfox.com)**
+**[在线预览 &rarr;](http://tryingfox.github.io)**
 
 ![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
